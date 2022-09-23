@@ -15,9 +15,8 @@ Template with best practice file estructure and prettier & eslint configured.
    ```sh
    npm i
    ```
-
-## Happy coding!!!
-
+   
+### 🚀 Happy coding!!!
 
 ## License
 
