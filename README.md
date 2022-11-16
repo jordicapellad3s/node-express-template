@@ -17,7 +17,3 @@ Template with best practice file estructure and prettier & eslint configured.
    ```
    
 ### 🚀 Happy coding!!!
-
-## License
-
-[MIT](LICENSE) © [jordi](https://github.com/jordicapedo).
