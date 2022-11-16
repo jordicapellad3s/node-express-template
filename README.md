@@ -10,7 +10,7 @@ Template with best practice file estructure and prettier & eslint configured.
 ## Installation
 
   1. Clone the repository
-  2. Install depencendies
+  2. Install dependencies
 
    ```sh
    npm i
